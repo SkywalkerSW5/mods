@@ -1,0 +1,8 @@
+-------------------------------------------------------------------
+		            mc-server
+
+mc-server is a mod for teaOS that installs a Paper Minecraft 
+server to ~/mc-server.
+
+To use start with mc-server 1.16.4   . It will then install the 
+server.
